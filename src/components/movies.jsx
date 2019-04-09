@@ -6,7 +6,7 @@ import ListGroup from './common/listGroup';
 import { getGenres } from '../services/fakeGenreService';
 import MoviesTable from './moviesTable';
 import _ from 'lodash';
-
+//check
 class Movies extends Component {
     state = {
         movies: [],
